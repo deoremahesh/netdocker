@@ -17,7 +17,7 @@ namespace myWebApp.Tests
             // Act
             Student student = new Student
             {
-                ID = id,
+                ID = 2,
                 LastName = lastName,
                 FirstMidName = firstMidName,
                 EnrollmentDate = enrollmentDate
